@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/Bomb_1.png</file>
+        <file>image/Bomb_2.png</file>
+        <file>image/EnemyTank_D.png</file>
+        <file>image/EnemyTank_L.png</file>
+        <file>image/EnemyTank_R.png</file>
+        <file>image/EnemyTank_U.png</file>
+        <file>image/Life.png</file>
+        <file>image/MyTank_D.png</file>
+        <file>image/MyTank_L.png</file>
+        <file>image/Bullet.png</file>
+        <file>image/help_background.jpg</file>
+        <file>image/gamemap2.jpg</file>
+        <file>image/exit.jpg</file>
+        <file>image/MyTank_R.png</file>
+        <file>image/MyTank_U.png</file>
+        <file>image/welcome_background.jpg</file>
+        <file>image/boom.png</file>
+        <file>image/timo.jpg</file>
+        <file>image/blood.png</file>
+        <file>image/Time.png</file>
+        <file>image/eBullet.jpg</file>
+    </qresource>
+</RCC>
