@@ -122,7 +122,7 @@ public:
 
 主要功能：移动、开火
 
-## 地方坦克类
+## 敌方坦克类
 
 ```C++
 class EnemyTank: public Tank, public QThread
